@@ -1,0 +1,21 @@
+ft_strlen/ft_strlen.c: In function ‘ft_strlen’:
+ft_strlen/ft_strlen.c:5:2: error: expected ‘=’, ‘,’, ‘;’, ‘asm’ or ‘__attribute__’ before ‘i’
+    5 |  i = 0;
+      |  ^
+ft_strlen/ft_strlen.c:5:2: error: ‘i’ undeclared (first use in this function)
+ft_strlen/ft_strlen.c:5:2: note: each undeclared identifier is reported only once for each function it appears in
+
+0$
+\n
+\n
+-------
+
+3$
+\n
+\n
+-------
+
+75$
+\n
+\n
+-------

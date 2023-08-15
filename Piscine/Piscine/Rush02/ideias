@@ -1,0 +1,15 @@
+PROGRAMA RUSH02
+
+
+-Ler input passado como parametro
+	-Se for igual a 1
+		-Segue o programa
+			-Le o argumento
+				-Se for maior que 10
+					
+				-Se for menor que 10
+					
+	-Se for 2
+		-O primeiro argumento vai ser lido pelo nosso dicionario
+		-O segundo argumento e lido pelo dicionario original
+	
