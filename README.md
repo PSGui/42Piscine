@@ -7,5 +7,3 @@ Truly an amazing experience to get to understand a lot of new things related to 
 
 Thank you to everyone that took part of it.
 If you are planning to get in or you are already at 42, I wish you the best of luck.
-
-Keep Swimming ;D
